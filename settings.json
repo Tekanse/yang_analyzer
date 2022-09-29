@@ -1,0 +1,44 @@
+{
+	"Monkey1": [
+		{
+			"folder_name": "metin2_map_monkey_dungeon_11",
+			"level_min": 1,
+			"level_max": 30
+		}
+	],
+	"Monkey2": [
+		{
+			"folder_name": "metin2_map_monkey_dungeon2",
+			"level_min": 30,
+			"level_max": 40
+		}
+	],
+	"Monkey3": [
+		{
+			"folder_name": "metin2_map_monkey_dungeon3",
+			"level_min": 40,
+			"level_max": 50
+		}
+	],
+	"Threeway": [
+		{
+			"folder_name": "map_n_threeway",
+			"level_min": 50,
+			"level_max": 55
+		}
+	],
+	"Milgyo": [
+		{
+			"folder_name": "metin2_map_milgyo",
+			"level_min": 55,
+			"level_max": 60
+		}
+	],
+	"Flame": [
+		{
+			"folder_name": "metin2_map_n_flame_01",
+			"level_min": 60,
+			"level_max": 80
+		}
+	]
+}
